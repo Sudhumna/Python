@@ -1,2 +1,10 @@
 # Python
-Learning python
+#### Creating a qrcode using python
+For the source code [click here](https://github.com/Sudhumna/Python/blob/main/qrCode.py)
+#### Creating a display using pygame
+
+For the source code [click here](https://github.com/Sudhumna/Python/blob/main/display.py)
+
+
+
+
